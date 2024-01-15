@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyDico</string>
+    <string name="name">Name</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="ajouter">ajouter</string>
+    <string name="action_search" />
+    <string name="add_word">Add_Word</string>
+    <string name="add_dict">Add_Dict</string>
+    <string name="quitter">Quitter</string>
+    <string name="delete_icon">delete icon</string>
+    <string name="mydico">MyDico</string>
+    <string name="saisie_le_mot">Saisie le mot</string>
+    <string name="google">Google</string>
+    <string name="delete">Delete</string>
+
+</resources>
