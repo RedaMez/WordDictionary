@@ -26,6 +26,25 @@ Here's how the app works:
 * [![Kotlin][Kotlin.com]][Kotlin-url]
 * [![Android][Android.com]][Android-url]
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Compilation / Launching the Application
+
+Prerequisite
+- [Android Studio](https://developer.android.com/studio) installed on your machine.
+
+Compilation
+- Click on the "Build" button in the Android Studio toolbar to compile the project.
+
+Launching on Emulator or Physical Device
+1. Connect an Android emulator or a physical device with a minimum version of Android "R" 11.0 to
+    your machine.
+2. Select the target device in the toolbar.
+3. Click on the "Run" button in the toolbar to deploy and launch the application on the selected 
+   device.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
